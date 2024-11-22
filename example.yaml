@@ -1,0 +1,7 @@
+---
+- title: Step 1
+  text: Open Excel
+  image: images/image01.png
+- title: Step 2
+  text: create a workbook
+  image: images/image02.png
