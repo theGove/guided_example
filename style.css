@@ -5,6 +5,7 @@ body{
 .nav{
     width:2px;background-color: #ccc;
     cursor:pointer;
+    margin-bottom: 1rem;
 }
 
 .step{
@@ -19,6 +20,7 @@ body{
 .formula{
     background-color: beige;
     padding:3px 6px;
-    font-size: 12px;
+    font-size: 9px;
     cursor:pointer;
+    border: 1px solid grey;
 }
